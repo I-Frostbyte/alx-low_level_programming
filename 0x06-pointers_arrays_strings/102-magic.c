@@ -1,4 +1,9 @@
 #include <stdio.h>
+ /**
+ * main - Fixing this code with one line.
+ *
+ * Return: Always 0.
+ */
 
 int main(void)
 {
